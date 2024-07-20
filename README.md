@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+
+aksh patel 
+### frontend developer 
 
 <!--
 **akshpatel26/akshpatel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
