@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aksh Patel</h1>
-- 🔭 I’m currently working on [Weather App] :   (https://github.com/akshpatel26/Weather-App)
+- 🔭 I’m currently working on [Weather App]  : (https://github.com/akshpatel26/Weather-App)
 
-- 🌱 I’m currently learning : **Web Development**
+- 🌱 I’m currently learning  : **Web Development**
 
-- 📫 How to reach me :   **akshp1042@gmail.com**
+- 📫 How to reach me :  **akshp1042@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
