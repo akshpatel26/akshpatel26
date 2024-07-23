@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aksh Patel</h1>
-- 🔭 I’m currently working on [Weather App]  : (https://github.com/akshpatel26/Weather-App)
 
 - 🌱 I’m currently learning : **Web Development**
 
