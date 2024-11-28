@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aksh Patel</h1>
-- 🌱 I’m currently learning    Data Analytics
+- 🌱 I’m currently learning **Data Analytics**
 
-- 📫 How to reach me **akshp1042@gmail.com**
+- 📫 How to reach me **akshpatel2602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
